@@ -1,8 +1,8 @@
 ### Hi there 👋 Thanks for visiting my GitHub Profile.
 
 
-- 🔭 I’m currently working on developing more application using back-end frameworks/languages.
-- 🌱 I’m currently learning skills in Python, Java, and JS.
+- 🔭 I’m currently working on developing more application using frontend frameworks/languages.
+- 🌱 I’m currently proficient in JavaScript, React, HTML, CSS, Python, Java and C++.
 - 👯 I’m looking to collaborate on any projects that will allow me to learn more.
 - 📫 How to reach me: my email is: lois_pua@yahoo.com and my LinkedIn: https://www.linkedin.com/in/lois-vernon-pua-a8698a212/
 - 😄 Pronouns: He/Him
